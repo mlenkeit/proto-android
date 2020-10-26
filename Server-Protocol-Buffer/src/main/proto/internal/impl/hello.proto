@@ -4,5 +4,5 @@ hello cwa-app-android
 
 message HelloWorld {
     string param2 = 1;
-    string param3 = 4;
+    string param3 = 5;
 }
