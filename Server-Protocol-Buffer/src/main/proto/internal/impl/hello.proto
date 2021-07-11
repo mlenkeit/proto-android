@@ -1,0 +1,8 @@
+syntax = "proto3";
+package cwa.internal.hello;
+hello cwa-app-android
+
+message HelloWorld {
+    string param2 = 1;
+    string param3 = 5;
+}
