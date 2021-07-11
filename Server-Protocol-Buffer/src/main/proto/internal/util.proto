@@ -1,0 +1,7 @@
+syntax = "proto3";
+package cwa.internal;
+hello cwa-app-android
+
+message Util {
+    string param1 = 1;
+}
